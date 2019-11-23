@@ -1,0 +1,2 @@
+dbt
+git+https://github.com/poidra02/dbt-spark
