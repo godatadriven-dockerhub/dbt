@@ -1,2 +1,2 @@
 dbt
-git+https://github.com/poidra02/dbt-spark
+git+https://github.com/Fokko/dbt-spark
