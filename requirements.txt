@@ -1,2 +1,2 @@
 dbt
-git+https://github.com/Fokko/dbt-spark
+git+https://github.com/fishtown-analytics/dbt-spark
